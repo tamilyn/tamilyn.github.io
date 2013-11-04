@@ -1,0 +1,14 @@
+
+#topcontainer { 
+	xborder: thick solid navy;
+	background: url(../images/fullsize_1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: sover;
+}
+
+#hdr-container {
+    background-color: #445588;
+    color: #a6e1ec;
+}
